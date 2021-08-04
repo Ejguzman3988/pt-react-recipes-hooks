@@ -1,4 +1,6 @@
-# React-Recipes
+# React-Recipes-hooks
+
+## USE STATE
 
 If you are insterested in the backend for this application here is a link to my [rails-server](https://github.com/Ejguzman3988/pt110920-rails-recipe-backend)
 
